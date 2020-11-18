@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\bin\Debug\netcoreapp3.1\CreateDirectory.exe
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\bin\Debug\netcoreapp3.1\CreateDirectory.deps.json
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\bin\Debug\netcoreapp3.1\CreateDirectory.runtimeconfig.json
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\bin\Debug\netcoreapp3.1\CreateDirectory.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\bin\Debug\netcoreapp3.1\CreateDirectory.dll
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\bin\Debug\netcoreapp3.1\CreateDirectory.pdb
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.dll
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.pdb
+C:\Users\opilane\source\repos\ClearDirectory\CreateDirectory\obj\Debug\netcoreapp3.1\CreateDirectory.genruntimeconfig.cache
